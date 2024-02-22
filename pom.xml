@@ -17,7 +17,7 @@
         <java.version>17</java.version>
     </properties>
 
-	
+	<!-- 解决完冲突的代码 win修改-->
 	
 
     <dependencies>

@@ -19,9 +19,6 @@
 
     <!-- mac 提交-->
 
-
-    <!-- windows add -->
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

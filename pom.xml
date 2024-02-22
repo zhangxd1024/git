@@ -21,6 +21,8 @@
 	<!-- 解决完冲突的代码 win修改-->
         <!-- disanfnag commit -->
 
+	<!-- anlihao: -->
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

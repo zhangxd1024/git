@@ -17,8 +17,11 @@
         <java.version>17</java.version>
     </properties>
 
-    <!-- windows add -->	
-    
+    <!-- mac 提交-->
+
+
+    <!-- windows add -->
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

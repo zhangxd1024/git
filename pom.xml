@@ -17,13 +17,16 @@
         <java.version>17</java.version>
     </properties>
 
-	<!-- mac 修改 -->	
+	<!-- mac 修改======= -->	
 	<!-- 解决完冲突的代码 win修改-->
         <!-- disanfnag commit -->
 
-	<!-- anlihao: -->
 
-    <dependencies>
+	<!-- anlihao: -->
+	<!-- 布拉吉 -->
+  <!-- master-->
+
+   <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

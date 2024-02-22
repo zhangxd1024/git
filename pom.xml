@@ -17,7 +17,7 @@
         <java.version>17</java.version>
     </properties>
 
-    <!-- macmac  mac 22 提交-->
+	<!-- 解决完冲突的代码 -->
 
     <dependencies>
         <dependency>

@@ -21,9 +21,12 @@
 	<!-- 解决完冲突的代码 win修改-->
         <!-- disanfnag commit -->
 
-	<!-- 布拉吉 -->
 
-    <dependencies>
+	<!-- anlihao: -->
+	<!-- 布拉吉 -->
+  <!-- master-->
+
+   <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

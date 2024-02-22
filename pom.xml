@@ -18,6 +18,7 @@
     </properties>
 
 	<!-- 解决完冲突的代码 win修改-->
+	<!-- 解决完冲突的代码 mac修改22-->
 
     <dependencies>
         <dependency>

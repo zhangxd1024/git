@@ -16,6 +16,9 @@
     <properties>
         <java.version>17</java.version>
     </properties>
+
+    <!-- windows add -->	
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
